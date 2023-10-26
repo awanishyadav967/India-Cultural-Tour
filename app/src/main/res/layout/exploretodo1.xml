@@ -119,7 +119,8 @@
             android:layout_weight="1"
             app:cardCornerRadius="8dp"
             app:cardElevation="10dp"
-            app:cardUseCompatPadding="true">
+            app:cardUseCompatPadding="true"
+            android:id="@+id/Festival_card">
 
             <TextView
                 android:layout_width="wrap_content"
