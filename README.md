@@ -49,24 +49,46 @@ It's about **colorful festivals**, **amazing arts**, **delicious food**, **handi
 ---
 
 ## 📱 **Screenshots**  
-- **Splash Screen**  
-- **Sign-Up Page**  
-- **Homepage**  
-- **Explore Section** (Food, Festivals, Arts, etc.)  
-- **Share Your Experiences**  
-- **Profile Section**  
-- **AR View**  
-- **Monuments and Details Fragment**  
-- **Share Options**  
+
+### Splash Screen  
+![Splash Screen](assets/Splash.png)  
+
+### Sign-Up Page  
+![Sign-Up Page](assets/Signup.png)  
+
+### Sign-In Page  
+![Sign-In Page](assets/Signin.png)  
+
+### Homepage  
+![Homepage](assets/Home.png)  
+
+### Explore Section  
+![Explore Section](assets/ExploreSection.png)  
+
+### Share Your Experiences  
+![Share Your Experiences](assets/ShareExperiences.png)  
+
+### Profile Section  
+![Profile Section](assets/Account.png)  
+
+### AR View  
+![AR View](assets/ARView.png)  
+
+### Monuments and Details Fragment  
+![Monuments](assets/Monuments.png)  
+
+### Share Options  
+![Share Options](assets/ShareOptions.png)  
+
 
 ---
 
 ## 🔄 **App Flow**  
 ### Flow Chart:  
-*Illustrating the user journey, from signup to personalized exploration.*  
+![Flow Charts](assets/Flowchart.png)  
 
 ### Use Case Diagram:  
-*Highlighting interactions between users, local businesses, and app features.*  
+![Flow Charts](assets/UseCase.png) 
 
 ---
 
