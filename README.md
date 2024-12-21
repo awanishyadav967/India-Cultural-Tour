@@ -48,37 +48,23 @@ It's about **colorful festivals**, **amazing arts**, **delicious food**, **handi
 
 ---
 
-## 📱 **Screenshots**  
+## 📱 **Screenshots**
 
-### Splash Screen  
-![Splash Screen](assets/Splash.png)  
+**Splash Screen**  
+![Splash Screen](assets/Splash.png)  ![Sign-Up Page](assets/Signup.png)
 
-### Sign-Up Page  
-![Sign-Up Page](assets/Signup.png)  
+**Sign-In Page**  
+![Sign-In Page](assets/Signin.png)  ![Homepage](assets/Home.png)
 
-### Sign-In Page  
-![Sign-In Page](assets/Signin.png)  
+**Explore Section**  
+![Explore Section](assets/ExploreSection.png)  ![Share Your Experiences](assets/ShareExperiences.png)
 
-### Homepage  
-![Homepage](assets/Home.png)  
+**Profile Section**  
+![Profile Section](assets/Account.png)  ![AR View](assets/ARView.png)
 
-### Explore Section  
-![Explore Section](assets/ExploreSection.png)  
+**Monuments and Details Fragment**  
+![Monuments](assets/Monuments.png)  ![Share Options](assets/ShareOptions.png)
 
-### Share Your Experiences  
-![Share Your Experiences](assets/ShareExperiences.png)  
-
-### Profile Section  
-![Profile Section](assets/Account.png)  
-
-### AR View  
-![AR View](assets/ARView.png)  
-
-### Monuments and Details Fragment  
-![Monuments](assets/Monuments.png)  
-
-### Share Options  
-![Share Options](assets/ShareOptions.png)  
 
 
 ---
